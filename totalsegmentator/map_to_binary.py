@@ -685,6 +685,32 @@ class_map = {
         21: "quadratus_lumborum_right",
         22: "quadratus_lumborum_left"
     },
+    "teeth_77": {
+        # Upper jaw teeth (right side)
+        1: "tooth_18", 2: "tooth_17", 3: "tooth_16", 4: "tooth_15", 5: "tooth_14", 6: "tooth_13", 7: "tooth_12", 8: "tooth_11",
+        # Upper jaw teeth (left side)  
+        9: "tooth_21", 10: "tooth_22", 11: "tooth_23", 12: "tooth_24", 13: "tooth_25", 14: "tooth_26", 15: "tooth_27", 16: "tooth_28",
+        # Lower jaw teeth (left side)
+        17: "tooth_38", 18: "tooth_37", 19: "tooth_36", 20: "tooth_35", 21: "tooth_34", 22: "tooth_33", 23: "tooth_32", 24: "tooth_31",
+        # Lower jaw teeth (right side)
+        25: "tooth_41", 26: "tooth_42", 27: "tooth_43", 28: "tooth_44", 29: "tooth_45", 30: "tooth_46", 31: "tooth_47", 32: "tooth_48",
+        # Deciduous teeth upper right
+        33: "tooth_55", 34: "tooth_54", 35: "tooth_53", 36: "tooth_52", 37: "tooth_51",
+        # Deciduous teeth upper left
+        38: "tooth_61", 39: "tooth_62", 40: "tooth_63", 41: "tooth_64", 42: "tooth_65",
+        # Deciduous teeth lower left
+        43: "tooth_75", 44: "tooth_74", 45: "tooth_73", 46: "tooth_72", 47: "tooth_71",
+        # Deciduous teeth lower right
+        48: "tooth_81", 49: "tooth_82", 50: "tooth_83", 51: "tooth_84", 52: "tooth_85",
+        # Additional tooth structures
+        53: "tooth_root_18", 54: "tooth_root_17", 55: "tooth_root_16", 56: "tooth_root_15",
+        57: "tooth_root_14", 58: "tooth_root_13", 59: "tooth_root_12", 60: "tooth_root_11",
+        61: "tooth_root_21", 62: "tooth_root_22", 63: "tooth_root_23", 64: "tooth_root_24",
+        65: "tooth_root_25", 66: "tooth_root_26", 67: "tooth_root_27", 68: "tooth_root_28",
+        69: "tooth_root_38", 70: "tooth_root_37", 71: "tooth_root_36", 72: "tooth_root_35",
+        73: "tooth_root_34", 74: "tooth_root_33", 75: "tooth_root_32", 76: "tooth_root_31",
+        77: "alveolar_bone"
+    },
     "test": {
         1: "carpal"
     }
